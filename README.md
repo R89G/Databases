@@ -1,2 +1,2 @@
 # Databases
-In this Repositroy I'll Upload Dataset from divdrse sources which you could use freely
+In this Repositroy I'll upload datasets from divdrse sources which you could use freely
